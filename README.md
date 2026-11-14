@@ -1,6 +1,6 @@
- <div align="center">
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3500&pause=1200&color=2DD4BF&center=true&vCenter=true&width=700&height=70&lines=Danilo+Ali" alt="Danilo Ali" />
+<img src="assets/data-ai-banner.svg" alt="Danilo Ali — Data Engineering, Cloud, Big Data and AI" width="100%"/>
 
 ### Data Engineer | Cloud, Big Data & AI
 
@@ -22,19 +22,31 @@ Building scalable data platforms, cloud architectures and intelligent data solut
 
 ## About Me
 
-I'm a **Data Engineer at IBM Consulting**, passionate about building scalable, reliable and efficient data solutions.
+I'm a **Data Engineer at IBM Consulting**, focused on building reliable data pipelines and cloud-based data solutions.
 
-My experience focuses on developing data pipelines, designing cloud-based data architectures, implementing ETL/ELT processes and working with different data platforms and technologies.
+My work and technical interests span **ETL/ELT engineering, data architecture, cloud platforms, orchestration, data modeling and analytics**. I enjoy connecting software engineering practices with data platforms to create solutions that are scalable, maintainable and useful to the business.
 
-Throughout my journey, I've worked with **AWS, Google Cloud Platform, Microsoft Azure, Big Data ecosystems and Business Intelligence tools**, combining software development, distributed systems, data modeling and cloud technologies.
+I've worked with services and tools across **AWS, Google Cloud Platform and Microsoft Azure**, while continuously expanding my knowledge of distributed data processing, modern lakehouse architectures and the evolving **Data & AI Engineering** landscape.
 
-Currently, I'm exploring the **Microsoft Fabric ecosystem**, focusing on enterprise analytics, Power BI, OneLake Catalog and Capacity Metrics.
-
-I'm also expanding my knowledge toward **Data & AI Engineering**, exploring how modern data platforms can support machine learning, intelligent applications and AI-driven solutions.
+I'm currently exploring the **Microsoft Fabric ecosystem**, including Power BI, OneLake Catalog and Capacity Metrics, while strengthening my foundations in Spark, PySpark and AI-ready data infrastructure.
 
 <div align="center">
 
 `DATA ENGINEERING` → `CLOUD & BIG DATA` → `ANALYTICS` → `DATA & AI`
+
+</div>
+
+---
+
+## GitHub at a Glance
+
+<div align="center">
+
+<img src="assets/profile-stats.svg" alt="GitHub statistics: followers, public commits in the last 12 months and public repositories" width="100%"/>
+
+<img src="https://komarev.com/ghpvc/?username=DanAliCode&label=PROFILE%20VIEWS&color=2dd4bf&style=for-the-badge" alt="Profile views"/>
+
+<sub>Public commit count covers the last 12 months. Profile views are counted from the moment the external counter is added.</sub>
 
 </div>
 
@@ -67,7 +79,7 @@ I'm also expanding my knowledge toward **Data & AI Engineering**, exploring how 
 - Microsoft Azure
 - Microsoft Fabric
 - Serverless Architecture
-- OneLake Ecosystem
+- Object Storage
 - Infrastructure as Code
 - Containerization
 
@@ -78,12 +90,12 @@ I'm also expanding my knowledge toward **Data & AI Engineering**, exploring how 
 
 ### Big Data & Distributed Systems
 
-- Apache Hive
-- Hadoop Distributed File System (HDFS)
-- MinIO Object Storage
-- Distributed Data Processing
 - Apache Spark
 - PySpark
+- Apache Hive
+- Hadoop Distributed File System
+- MinIO Object Storage
+- Distributed Data Processing
 
 </td>
 <td width="50%" valign="top">
@@ -112,7 +124,6 @@ I'm also expanding my knowledge toward **Data & AI Engineering**, exploring how 
 - MySQL
 - SQL Server
 - MongoDB
-- DBeaver
 
 </td>
 <td width="50%" valign="top">
@@ -139,15 +150,15 @@ I'm also expanding my knowledge toward **Data & AI Engineering**, exploring how 
 
 ### Cloud Platforms
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=dark" alt="Cloud platforms"/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=dark" alt="AWS, Google Cloud and Azure"/>
 
-### Programming & Data Processing
+### Programming, Data & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb,docker,terraform&theme=dark" alt="Programming and data tools"/>
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb,docker,terraform&theme=dark" alt="Python, databases, Docker and Terraform"/>
 
-### Development & Infrastructure
+### Development Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,jupyter&theme=dark" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,jupyter&theme=dark" alt="Git, GitHub, Linux, Bash, VS Code and Jupyter"/>
 
 </div>
 
@@ -159,10 +170,11 @@ I'm also expanding my knowledge toward **Data & AI Engineering**, exploring how 
 <img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" alt="Apache Hive"/>
 <img src="https://img.shields.io/badge/HDFS-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="HDFS"/>
 <img src="https://img.shields.io/badge/MinIO-C72C48?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO"/>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
 
 </div>
 
-### Analytics, BI & Data Visualization
+### Analytics & Business Intelligence
 
 <div align="center">
 
@@ -192,27 +204,26 @@ I'm also expanding my knowledge toward **Data & AI Engineering**, exploring how 
 | Google Cloud | BigQuery, Dataform, Cloud Storage, Cloud Composer, Cloud Functions, Cloud Run |
 | Microsoft Azure | Azure Functions, Blob Storage, PostgreSQL Flexible Server |
 | Microsoft Fabric | Power BI, OneLake, OneLake Catalog, Capacity Metrics |
-| Big Data | Apache Hive, HDFS, MinIO, Apache Spark, PySpark |
+| Big Data | Apache Spark, PySpark, Apache Hive, HDFS, MinIO |
 | Databases | IBM Db2, PostgreSQL, MySQL, SQL Server, MongoDB |
 | Orchestration | Apache Airflow, Cloud Composer, AWS Step Functions |
 | BI & Analytics | Power BI, Google Looker, Metabase |
 | Data Modeling | Erwin Data Modeler, Dimensional Modeling |
-| Database Tools | DBeaver |
 | Programming | Python, SQL |
-| Infrastructure | Docker, Terraform, Git |
+| Infrastructure | Docker, Terraform, Git, Linux |
 
 ---
 
-## Current Focus
+## Current Focus — Microsoft Fabric & Data Analytics
 
-**Exploring Microsoft Fabric & Enterprise Data Analytics**
-
-Currently exploring the Microsoft Fabric ecosystem, with a focus on enterprise data visualization, analytics governance and capacity monitoring.
+Exploring the Microsoft Fabric ecosystem, with particular interest in enterprise analytics, data discovery, governance and capacity optimization.
 
 - **Power BI:** Enterprise reporting, dashboards and data visualization.
 - **OneLake Catalog:** Data discovery, catalog exploration and data organization.
-- **Capacity Metrics:** Monitoring and analyzing Microsoft Fabric capacity utilization.
-- **Enterprise Analytics:** Understanding BI environments, workload management and analytics optimization.
+- **Capacity Metrics:** Monitoring and analyzing Fabric capacity utilization.
+- **Enterprise Analytics:** BI environments, workload management and analytics optimization.
+
+Alongside this, I'm developing my knowledge of **Spark, PySpark and AI-oriented data architectures**.
 
 ---
 
@@ -230,27 +241,13 @@ Currently exploring the Microsoft Fabric ecosystem, with a focus on enterprise d
 
 ---
 
-## GitHub Metrics
+## Explore My Work
 
-<div align="center">
+I use GitHub to document technical experiments, hands-on labs and projects involving data engineering, cloud infrastructure, automation and analytics.
 
-<img src="https://raw.githubusercontent.com/DanAliCode/DanAliCode/output/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanAliCode/DanAliCode/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanAliCode/DanAliCode/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/DanAliCode/DanAliCode/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
-
-</div>
+<a href="https://github.com/DanAliCode?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20Public%20Repositories-0F172A?style=for-the-badge&logo=github&logoColor=2DD4BF" alt="Explore public repositories"/>
+</a>
 
 ---
 
