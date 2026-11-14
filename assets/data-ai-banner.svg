@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Danilo Ali — Data Engineering and AI</title>
+<desc id="desc">A technology banner about data engineering, cloud, big data and artificial intelligence.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#07111f"/>
+    <stop offset="1" stop-color="#102b3a"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#2dd4bf"/>
+    <stop offset="1" stop-color="#60a5fa"/>
+  </linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" fill="none" stroke="#7dd3fc" stroke-opacity=".08" stroke-width="1"/>
+  </pattern>
+</defs>
+<rect width="1200" height="300" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="300" rx="22" fill="url(#grid)"/>
+<circle cx="1030" cy="80" r="150" fill="#2dd4bf" opacity=".06"/>
+<circle cx="1110" cy="245" r="115" fill="#60a5fa" opacity=".07"/>
+<g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".7">
+  <path d="M835 72h80l35 35h90"/>
+  <path d="M835 142h125l35-35h75"/>
+  <path d="M835 212h75l35-35h125"/>
+  <circle cx="835" cy="72" r="5" fill="#2dd4bf"/>
+  <circle cx="835" cy="142" r="5" fill="#2dd4bf"/>
+  <circle cx="835" cy="212" r="5" fill="#2dd4bf"/>
+  <circle cx="1040" cy="107" r="5" fill="#60a5fa"/>
+  <circle cx="1070" cy="107" r="5" fill="#60a5fa"/>
+  <circle cx="1070" cy="177" r="5" fill="#60a5fa"/>
+</g>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+  <text x="72" y="91" fill="#e2e8f0" font-size="19" letter-spacing="4">DATA • CLOUD • INTELLIGENCE</text>
+  <text x="68" y="157" fill="#ffffff" font-size="58" font-weight="750">Danilo Ali</text>
+  <rect x="72" y="179" width="92" height="4" rx="2" fill="url(#accent)"/>
+  <text x="72" y="220" fill="#cbd5e1" font-size="23" font-weight="600">Data Engineer | Cloud, Big Data &amp; AI</text>
+  <text x="72" y="257" fill="#94a3b8" font-size="15" letter-spacing="1.5">BUILDING DATA PLATFORMS FOR WHAT COMES NEXT</text>
+</g>
+</svg>
