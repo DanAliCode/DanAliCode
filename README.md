@@ -1,12 +1,13 @@
  <div align="center">
 
-<!-- LOCAL HEADER: assets/header.svg -->
-<img src="./assets/header.svg" width="100%" alt="Danilo Ali - Data Engineer" />
+<!-- HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3500&pause=1200&color=2DD4BF&center=true&vCenter=true&width=700&height=70&lines=Danilo+Ali" alt="Danilo Ali" />
 
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=750&lines=Building+Scalable+Data+Pipelines;Engineering+Cloud+Data+Platforms;Exploring+the+Intersection+of+Data+%26+AI;Turning+Data+Into+Intelligence" alt="Professional typing animation" />
+<h3>Data Engineer | Cloud & AI</h3>
 
-<br/>
+<p>
+Building scalable data platforms and intelligent solutions.
+</p>
 
 <a href="https://www.linkedin.com/in/danilo-ali-87baa4273/">
 <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=2DD4BF" />
@@ -117,7 +118,7 @@ Currently, I'm expanding my knowledge toward **Data & AI Engineering**, explorin
 
 </div>
 
-### Core Technologies
+## Core Technologies
 
 | Category | Technologies |
 |---|---|
@@ -125,7 +126,7 @@ Currently, I'm expanding my knowledge toward **Data & AI Engineering**, explorin
 | Google Cloud | BigQuery, Dataform, Cloud Storage, Cloud Composer, Cloud Functions, Cloud Run |
 | Microsoft Azure | Azure Functions, Blob Storage, PostgreSQL Flexible Server |
 | Orchestration | Apache Airflow, Cloud Composer, AWS Step Functions |
-| Processing | Python, SQL, PySpark |
+| Programming | Python, SQL, PySpark |
 | Databases | PostgreSQL, MySQL, SQL Server, MongoDB |
 | Infrastructure | Docker, Terraform, Git |
 
@@ -143,44 +144,28 @@ Currently, I'm expanding my knowledge toward **Data & AI Engineering**, explorin
 
 ---
 
-## GitHub Analytics
+## GitHub Activity
 
 <div align="center">
 
-<!-- PROFILE OVERVIEW -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg" />
-  <img src="./assets/overview.light.svg" width="100%" alt="GitHub Profile Overview" />
-</picture>
+<img src="https://img.shields.io/github/followers/DanAliCode?label=Followers&style=for-the-badge&color=0D9488&logo=github" />
 
-<br/><br/>
+<img src="https://img.shields.io/github/stars/DanAliCode?label=Total%20Stars&style=for-the-badge&color=0D9488&logo=github" />
 
-<!-- TOP LANGUAGES -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg" />
-  <img src="./assets/languages.light.svg" width="100%" alt="GitHub Languages" />
-</picture>
-
-<br/><br/>
-
-<!-- CONTRIBUTION ACTIVITY -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg" />
-  <img src="./assets/contributions.light.svg" width="100%" alt="GitHub Contribution Activity" />
-</picture>
+<img src="https://komarev.com/ghpvc/?username=DanAliCode&style=for-the-badge&color=0D9488&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## Contribution Snake
+## Contribution Activity
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanAliCode/DanAliCode/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanAliCode/DanAliCode/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/DanAliCode/DanAliCode/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake Animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanAliCode/DanAliCode/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanAliCode/DanAliCode/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/DanAliCode/DanAliCode/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
 </div>
