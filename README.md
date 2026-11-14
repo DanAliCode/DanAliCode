@@ -1,22 +1,19 @@
  <div align="center">
 
-<!-- ANIMATED NAME -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3500&pause=1200&color=2DD4BF&center=true&vCenter=true&width=700&height=70&lines=Danilo+Ali" alt="Danilo Ali" />
 
-<h3>Data Engineer | Cloud, Big Data & AI</h3>
+### Data Engineer | Cloud, Big Data & AI
 
-<p>
 Building scalable data platforms, cloud architectures and intelligent data solutions.
-</p>
 
 <a href="https://www.linkedin.com/in/danilo-ali-87baa4273/">
-<img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=2DD4BF" />
+  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=2DD4BF" alt="LinkedIn"/>
 </a>
 <a href="mailto:danilo_ali1997@outlook.com">
-<img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=microsoftoutlook&logoColor=2DD4BF" />
+  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=microsoftoutlook&logoColor=2DD4BF" alt="Email"/>
 </a>
 <a href="https://github.com/DanAliCode">
-<img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=2DD4BF" />
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=2DD4BF" alt="GitHub"/>
 </a>
 
 </div>
@@ -76,7 +73,6 @@ I'm also expanding my knowledge toward **Data & AI Engineering**, exploring how 
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -88,7 +84,6 @@ I'm also expanding my knowledge toward **Data & AI Engineering**, exploring how 
 - Distributed Data Processing
 - Apache Spark
 - PySpark
-- Data Lake Architecture
 
 </td>
 <td width="50%" valign="top">
@@ -102,11 +97,9 @@ I'm also expanding my knowledge toward **Data & AI Engineering**, exploring how 
 - OneLake Catalog
 - Capacity Metrics
 - Data Visualization
-- Business Intelligence
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -146,15 +139,15 @@ I'm also expanding my knowledge toward **Data & AI Engineering**, exploring how 
 
 ### Cloud Platforms
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=dark" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=dark" alt="Cloud platforms"/>
 
 ### Programming & Data Processing
 
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb,docker,terraform&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb,docker,terraform&theme=dark" alt="Programming and data tools"/>
 
 ### Development & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,jupyter&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,jupyter&theme=dark" alt="Development tools"/>
 
 </div>
 
@@ -162,10 +155,10 @@ I'm also expanding my knowledge toward **Data & AI Engineering**, exploring how 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/IBM%20Db2-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />
-<img src="https://img.shields.io/badge/HDFS-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" />
-<img src="https://img.shields.io/badge/MinIO-C72C48?style=for-the-badge&logo=minio&logoColor=white" />
+<img src="https://img.shields.io/badge/IBM%20Db2-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Db2"/>
+<img src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" alt="Apache Hive"/>
+<img src="https://img.shields.io/badge/HDFS-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="HDFS"/>
+<img src="https://img.shields.io/badge/MinIO-C72C48?style=for-the-badge&logo=minio&logoColor=white" alt="MinIO"/>
 
 </div>
 
@@ -173,10 +166,10 @@ I'm also expanding my knowledge toward **Data & AI Engineering**, exploring how 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Microsoft%20Fabric-742774?style=for-the-badge&logo=microsoftfabric&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" />
-<img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-742774?style=for-the-badge&logo=microsoftfabric&logoColor=white" alt="Microsoft Fabric"/>
+<img src="https://img.shields.io/badge/Google%20Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Google Looker"/>
+<img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white" alt="Metabase"/>
 
 </div>
 
@@ -184,8 +177,8 @@ I'm also expanding my knowledge toward **Data & AI Engineering**, exploring how 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Erwin%20Data%20Modeler-263B80?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />
+<img src="https://img.shields.io/badge/Erwin%20Data%20Modeler-263B80?style=for-the-badge" alt="Erwin Data Modeler"/>
+<img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" alt="DBeaver"/>
 
 </div>
 
@@ -214,9 +207,7 @@ I'm also expanding my knowledge toward **Data & AI Engineering**, exploring how 
 
 **Exploring Microsoft Fabric & Enterprise Data Analytics**
 
-Currently working with the Microsoft Fabric ecosystem, exploring enterprise data visualization, analytics governance and capacity monitoring.
-
-Areas of exploration:
+Currently exploring the Microsoft Fabric ecosystem, with a focus on enterprise data visualization, analytics governance and capacity monitoring.
 
 - **Power BI:** Enterprise reporting, dashboards and data visualization.
 - **OneLake Catalog:** Data discovery, catalog exploration and data organization.
@@ -229,25 +220,21 @@ Areas of exploration:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Cloud Practitioner"/>
 
-<img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+<img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Solutions Architect Associate"/>
 
-<img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=FFFFFF" alt="Azure Fundamentals"/>
 
 </div>
 
 ---
 
-## GitHub Activity
+## GitHub Metrics
 
 <div align="center">
 
-<img src="https://img.shields.io/github/followers/DanAliCode?label=Followers&style=for-the-badge&color=0D9488&logo=github" />
-
-<img src="https://img.shields.io/github/stars/DanAliCode?label=Total%20Stars&style=for-the-badge&color=0D9488&logo=github" />
-
-<img src="https://komarev.com/ghpvc/?username=DanAliCode&style=for-the-badge&color=0D9488&label=PROFILE+VIEWS" />
+<img src="https://raw.githubusercontent.com/DanAliCode/DanAliCode/output/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
 
 </div>
 
