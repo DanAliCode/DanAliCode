@@ -1,0 +1,73 @@
+
+name: Generate GitHub Metrics
+
+on:
+  # Atualiza automaticamente todos os dias
+  schedule:
+    - cron: "0 0 * * *"
+
+  # Permite executar manualmente
+  workflow_dispatch:
+
+  # Atualiza quando houver alterações na branch principal
+  push:
+    branches:
+      - master
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    name: Generate profile metrics
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # GitHub account
+          user: DanAliCode
+
+          # Authentication
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Generated SVG
+          filename: github-metrics.svg
+
+          # Publish generated file in the existing output branch
+          output_action: commit
+          committer_branch: output
+          committer_message: "Update GitHub metrics [Skip GitHub Action]"
+
+          # General appearance
+          template: classic
+          config_timezone: America/Sao_Paulo
+          config_display: large
+          config_animations: yes
+
+          # Main sections
+          base: header, activity, community, repositories, metadata
+
+          # Programming languages
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 8
+          plugin_languages_details: percentage
+          plugin_languages_other: yes
+
+          # Contribution calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          # Recent activity
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+
+          # Coding habits
+          plugin_habits: yes
+          plugin_habits_days: 14
+          plugin_habits_charts: yes
