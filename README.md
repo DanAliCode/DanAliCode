@@ -6,13 +6,13 @@
 
 Building scalable data platforms, cloud architectures and intelligent data solutions.
 
-<a href="https://www.linkedin.com/in/danilo-ali-87baa4273/">
+<a href="https://www.linkedin.com/in/danilo-ali-87baa4273/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=2DD4BF" alt="LinkedIn"/>
 </a>
-<a href="mailto:danilo_ali1997@outlook.com">
+<a href="mailto:danilo_ali1997@outlook.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=microsoftoutlook&logoColor=2DD4BF" alt="Email"/>
 </a>
-<a href="https://github.com/DanAliCode">
+<a href="https://github.com/DanAliCode" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=2DD4BF" alt="GitHub"/>
 </a>
 
@@ -245,7 +245,7 @@ Alongside this, I'm developing my knowledge of **Spark, PySpark and AI-oriented 
 
 I use GitHub to document technical experiments, hands-on labs and projects involving data engineering, cloud infrastructure, automation and analytics.
 
-<a href="https://github.com/DanAliCode?tab=repositories">
+<a href="https://github.com/DanAliCode?tab=repositories" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Explore%20Public%20Repositories-0F172A?style=for-the-badge&logo=github&logoColor=2DD4BF" alt="Explore public repositories"/>
 </a>
 
