@@ -1,14 +1,13 @@
  <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:134E4A,100:0D9488&text=Danilo%20Ali&fontColor=FFFFFF&fontSize=55&fontAlignY=38&desc=Data%20Engineer%20%7C%20Cloud%20%26%20AI&descAlignY=60&descSize=19&animation=fadeIn" />
+<!-- LOCAL HEADER: assets/header.svg -->
+<img src="./assets/header.svg" width="100%" alt="Danilo Ali - Data Engineer" />
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=750&lines=Building+Scalable+Data+Pipelines;Engineering+Cloud+Data+Platforms;Exploring+the+Intersection+of+Data+%26+AI;Turning+Data+Into+Intelligence" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=750&lines=Building+Scalable+Data+Pipelines;Engineering+Cloud+Data+Platforms;Exploring+the+Intersection+of+Data+%26+AI;Turning+Data+Into+Intelligence" alt="Professional typing animation" />
 
 <br/>
 
-<!-- SOCIAL LINKS -->
 <a href="https://www.linkedin.com/in/danilo-ali-87baa4273/">
 <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=2DD4BF" />
 </a>
@@ -148,30 +147,40 @@ Currently, I'm expanding my knowledge toward **Data & AI Engineering**, explorin
 
 <div align="center">
 
-<!-- GITHUB STATS -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DanAliCode&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&text_color=C9D1D9&rank_icon=github" />
-
-<!-- TOP LANGUAGES -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanAliCode&layout=compact&hide_border=true&langs_count=6&bg_color=0D1117&title_color=2DD4BF&text_color=C9D1D9" />
+<!-- PROFILE OVERVIEW -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/overview.dark.svg" />
+  <img src="./assets/overview.light.svg" width="100%" alt="GitHub Profile Overview" />
+</picture>
 
 <br/><br/>
 
-<!-- CONTRIBUTION STREAK -->
-<img width="65%" src="https://streak-stats.demolab.com/?user=DanAliCode&theme=transparent&hide_border=true&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=C9D1D9&dates=8B949E" />
+<!-- TOP LANGUAGES -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/languages.dark.svg" />
+  <img src="./assets/languages.light.svg" width="100%" alt="GitHub Languages" />
+</picture>
+
+<br/><br/>
+
+<!-- CONTRIBUTION ACTIVITY -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions.dark.svg" />
+  <img src="./assets/contributions.light.svg" width="100%" alt="GitHub Contribution Activity" />
+</picture>
 
 </div>
 
 ---
 
-## Contribution Activity
+## Contribution Snake
 
 <div align="center">
 
-<!-- GITHUB CONTRIBUTION SNAKE -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanAliCode/DanAliCode/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanAliCode/DanAliCode/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/DanAliCode/DanAliCode/output/github-contribution-grid-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanAliCode/DanAliCode/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanAliCode/DanAliCode/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/DanAliCode/DanAliCode/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake Animation" />
 </picture>
 
 </div>
@@ -183,9 +192,5 @@ Currently, I'm expanding my knowledge toward **Data & AI Engineering**, explorin
 ### Building today. Engineering tomorrow.
 
 *Driven by data, powered by technology, inspired by AI.*
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:134E4A&height=110&section=footer" />
 
 </div>
